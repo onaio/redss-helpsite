@@ -4,8 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Postgres Guide is maintained on a best effort basis. If you find it helpful I appreciate you sharing it with others. If you've got ways you think it could be better let me know [on twitter](http://www.twitter.com/craigkerstiens) or perhaps check out my [personal blog](http://www.craigkerstiens.com) for more content.
-
-A special thanks to those who have already contributed content, and to [Matt Graham](http://www.twitter.com/michigangraham) for the wonderful design.
-
-If you want to contribute all contributions are welcome on [github](https://github.com/craigkerstiens/postgresguide.com).
+Pellentesque elit libero, porttitor nec ultrices nec, ultricies ac velit. Donec in sem vitae ante maximus blandit. Aliquam sed luctus ligula. Integer maximus maximus nulla, eu feugiat arcu accumsan sed. Phasellus eget magna ut mauris tempor feugiat id id nisi. Donec sed massa ut odio eleifend egestas. Morbi libero ante, sodales eget scelerisque nec, lobortis ac diam. Proin bibendum finibus odio, ut dignissim eros iaculis a. Ut eu vestibulum tellus, ut mattis mi. Mauris ac posuere sem, id rutrum tortor. Donec in mi sem. Donec cursus orci et orci faucibus bibendum. Duis in commodo mi. Nunc tempor enim a venenatis placerat. Proin vitae nisl felis.
