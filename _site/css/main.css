@@ -462,6 +462,17 @@ pre {
         display: none;
         max-width: 0px; } }
 
+table {
+  border-collapse: collapse;
+  border-spacing: 0; }
+
+th {
+  border: 2px solid #000000; }
+
+td {
+  border: 1px solid #000000;
+  padding: 4px; }
+
 /**
  * Syntax highlighting styles
  */
@@ -617,7 +628,8 @@ nav.side {
     margin-top: 10px; }
   nav.side li {
     list-style: none;
-    font-size: 13px; }
+    font-size: 13px;
+    padding: 3px; }
     nav.side li nav {
       display: none; }
   nav.side a.active {
