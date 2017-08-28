@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Redss Guide
+title: ReDSS Guide
 email: your-email@example.com
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -59,17 +59,3 @@ markdown: kramdown
 collections:
   setup:
     output: true
-  sql:
-    output: true
-  utilities:
-    output: true
-  tips:
-    output: true
-  performance:
-    output: true
-  sexy:
-    output: true
-  links:
-    output: false
-  ads:
-    output: false
