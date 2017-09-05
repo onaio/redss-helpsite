@@ -67,6 +67,7 @@ Legal Safety</td>
   </tr>
 </table>
 
+{::nomarkdown}</br>{:/}
 
 ## Indicator Color Coded Rating
 
