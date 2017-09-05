@@ -22,13 +22,14 @@ The 8 IASC criteria with 31 outcome indicators are organized around the physical
   </tr>
   <tr>
     <td>
+    ![image](/assets/images/image_14.png)
 Physical Safety</td>
     <td>1. Protection/ Safety & Security/ Social Cohesion</td>
     <td>6 Indicators</td>
   </tr>
   <tr>
     <td>
-
+ ![image](/assets/images/image_15.png)
 Material Safety</td>
     <td>2. Adequate Standard of Living/Access to Basic Services</td>
     <td>7 Indicators</td>
@@ -45,6 +46,7 @@ Material Safety</td>
   </tr>
   <tr>
     <td>
+     ![image](/assets/images/image_16.png)
 Legal Safety</td>
     <td>5. Access to Effective Remedies & Justice
 </td>
