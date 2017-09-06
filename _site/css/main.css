@@ -36,7 +36,8 @@ ul, ol, dl, figure,
 */
 img {
   max-width: 100%;
-  vertical-align: middle; }
+  vertical-align: middle;
+  border: 1px solid #cccccc; }
 
 /**
 * Figures
@@ -264,7 +265,8 @@ pre {
   .footer-license img {
     display: inline-block;
     margin-right: -35px;
-    width: 70%; }
+    width: 70%;
+    border: none; }
   .footer-license p {
     margin-bottom: 0;
     display: inline-block; }
