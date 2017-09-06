@@ -14,13 +14,13 @@ Your selection will be displayed next to **YOUR SELECTION** (as shown in the pin
 
 If the different selection fields are closed and not displaying all their possible choices, click the field heading. For example, in the figure above, if you want to view the contents under **Year**, you would click **Year**. 
 
-#### Hide the Selection Panel
+## Hide the Selection Panel
 
 In both the Framework and Map view, you can hide the selection panel by clicking the X icon in the upper right corner of the panel.
 
 ![image](/assets/images/image_2.png)
 
-#### Open the Selection Panel
+## Open the Selection Panel
 
 In both the Framework and Map view, you can open the selection panel by clicking the icon in the upper left corner of the screen.
 

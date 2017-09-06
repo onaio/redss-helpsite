@@ -638,7 +638,8 @@ nav.side {
     display: block; }
     nav.side li a.active ~ nav li {
       margin: 0;
-      padding: 0; }
+      padding: 0;
+      display: flex; }
       nav.side li a.active ~ nav li:before {
         content: '-';
         display: inline-block;

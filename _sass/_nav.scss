@@ -38,6 +38,7 @@ nav.side {
     li {
       margin: 0;
       padding: 0;
+      display: flex;
 
       &:before {
         content: '-';
