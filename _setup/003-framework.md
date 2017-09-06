@@ -14,59 +14,7 @@ The Framework view is the default view, and it displays the data as written cont
 
 The 8 IASC criteria with 31 outcome indicators are organized around the physical safety, material safety, and legal safety of the displaced populations in comparison to the host communities. 
 
-<table>
-  <tr>
-    <td>Criteria</td>
-    <td>Sub criteria (IASC)</td>
-    <td>Indicators</td>
-  </tr>
-  <tr>
-    <td>
-Physical Safety</td>
-    <td>1. Protection/ Safety & Security/ Social Cohesion</td>
-    <td>6 Indicators</td>
-  </tr>
-  <tr>
-    <td>
-
-Material Safety</td>
-    <td>2. Adequate Standard of Living/Access to Basic Services</td>
-    <td>7 Indicators</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>3. Access to Livelihoods</td>
-    <td>4 Indicators</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>4. Restoration of Housing, Land & Property</td>
-    <td>3 Indicators</td>
-  </tr>
-  <tr>
-    <td>
-Legal Safety</td>
-    <td>5. Access to Effective Remedies & Justice
-</td>
-    <td>2 Indicators</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>6. Participation in Public Affairs</td>
-    <td>2 Indicators</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>7. Access to Documentation</td>
-    <td>3 Indicators</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>8. Family Reunification</td>
-    <td>3 Indicators</td>
-  </tr>
-</table>
-
+![image](/assets/images/image_14.png)
 {::nomarkdown}</br>{:/}
 
 ## Indicator Color Coded Rating
