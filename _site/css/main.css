@@ -615,6 +615,9 @@ td {
     color: #099; }
 
 nav.side {
+  position: sticky;
+  position: -webkit-sticky;
+  top: 0;
   float: left;
   width: 100%;
   max-width: 240px;
