@@ -2,7 +2,7 @@
 layout: default
 ---
 
-ReDSS Guide
+ReDSS Dashboard Guide
 ==============
 
 The Regional Durable Solutions Secretariat (ReDSS) is not an implementing agency, but a coordination and information hub acting as a catalyst and agent provocateur to stimulate forward thinking and policy development on durable solutions for displacement affected communities in the East and Horn of Africa. It seeks to improve joint learning and research, support advocacy and policy development, capacity development and coordination.
